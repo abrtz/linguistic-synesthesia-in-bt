@@ -23,10 +23,18 @@ This repository contains the code to:
 
 To run the annotations and translation with LLM, an API key is required.
 
+
 The notebooks are numbered on the steps to take to replicate this experiment.
+
+
 01: annotations with LLM
+
 02: compute IAA and create final synesthesia corpus
+
 03: translate into DE and ES and translate back to EN with LLM
+
 04: annotations of back-translations with LLM
+
 05: compute IAA on back-translations
+
 06: compute IAA comparing before and after scenarios
