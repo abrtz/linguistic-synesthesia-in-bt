@@ -1,5 +1,4 @@
-# Probing Language Models:
-Preservation of Linguistic Synesthesia in Back-translation
+# Probing Language Models: Preservation of Linguistic Synesthesia in Back-translation
 
 This repository contains the code to:
 - annotate linguistic synesthesia with ChatGPT API (key required).
